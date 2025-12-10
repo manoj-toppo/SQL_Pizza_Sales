@@ -23,7 +23,7 @@ The database consists of multiple tables (commonly named as):
 
 ## 🛠️ Tools & Technologies
 - **SQL** (Structured Query Language)
-- **Database:** SSMS
+- **Database:** T-SQL
 - **Platform:** GitHub for version control and documentation
 
 ---
