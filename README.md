@@ -23,7 +23,7 @@ The database consists of multiple tables (commonly named as):
 
 ## 🛠️ Tools & Technologies
 - **SQL** (Structured Query Language)
-- **Database:** SQLite / MySQL / PostgreSQL (depending on your setup)
+- **Database:** SSMS
 - **Platform:** GitHub for version control and documentation
 
 ---
