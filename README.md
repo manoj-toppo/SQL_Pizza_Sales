@@ -30,19 +30,19 @@ The database consists of multiple tables (commonly named as):
 
 🧩 Insights & Findings
 🔥 Major Insights
-• **Greek Pizza** commands highest price point, driving premium revenue segment.
-• **Large size** dominates orders (highest count across all categories).
-• **Classic Deluxe, BBQ Chicken, Hawaiian** claim top 5 spots by total quantity sold.
-• **$818K total revenue** from 21,350 unique orders (avg $38.30/order).
-• **48,620 order details** reveal multi-pizza orders as revenue driver (2.32 avg pizzas/order).
-• **Pareto Effect**: Top 5 pizzas account for disproportionate sales volume.
+- **Greek Pizza** commands highest price point, driving premium revenue segment.
+- **Large size** dominates orders (highest count across all categories).
+- **Classic Deluxe, BBQ Chicken, Hawaiian** claim top 5 spots by total quantity sold.
+- **$818K total revenue** from 21,350 unique orders (avg $38.30/order).
+- **48,620 order details** reveal multi-pizza orders as revenue driver (2.32 avg pizzas/order).
+- **Pareto Effect**: Top 5 pizzas account for disproportionate sales volume.
 
 💡 Business Recommendations
-• **Prioritize Large-size production** and inventory for Supreme/Classic categories.
-• **Cross-sell Greek Pizza** as premium upsell option in combos.
-• **Target Top 5 performers** for loyalty program discounts.
-• **Optimize menu** by promoting high-quantity sellers during peak hours.
-• **Dynamic pricing** for low-volume pizzas to clear inventory.
+- **Prioritize Large-size production** and inventory for Supreme/Classic categories.
+- **Cross-sell Greek Pizza** as premium upsell option in combos.
+- **Target Top 5 performers** for loyalty program discounts.
+- **Optimize menu** by promoting high-quantity sellers during peak hours.
+- **Dynamic pricing** for low-volume pizzas to clear inventory.
 
 
 ---
